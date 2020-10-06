@@ -7,6 +7,8 @@ This respository contain a jupyter notebook file with detailed explanation of DC
 
 ![DCGAN_Output](https://github.com/ankitsharmax/Synthetic-Images-using-DCGANs/blob/main/out_dcgan.gif)
 
+___
+
 ### DCGAN Structure
 
 ![DCGAN_Structure](https://github.com/ankitsharmax/Synthetic-Images-using-DCGANs/blob/main/GAN.jpeg)
